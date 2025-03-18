@@ -2,7 +2,7 @@
 ### 🚀 Desarrollador Web | Angular Expert | Aprendiendo Java & Backend  
 
 📫 **Conéctate conmigo:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandro)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandromarinodev)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/alessandrodev)  
 
 ---
@@ -21,20 +21,9 @@
 ![BEM](https://img.shields.io/badge/BEM-000000?style=flat&logo=bem&logoColor=white)  
 ![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=flat&logo=scrumalliance&logoColor=white)  
 
----
-
-🏆 **Premios y Reconocimientos:**  
-🥇 *[Aquí puedes poner algún premio o logro importante.]*  
-🥈 *Hackathon [Nombre del evento] - [Año]*  
-🥉 *Top Contributor en [Plataforma o comunidad]*  
-
----
 
 📊 **Estadísticas de GitHub:**  
 ![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlessandroDev&show_icons=true&theme=radical)  
 
-🌱 **Proyectos Destacados:**  
-- [🔗 Mi proyecto en Angular](https://github.com/AlessandroDev/angularexpert)  
-- [💬 Chat en Tiempo Real con Firebase](https://github.com/AlessandroDev/chat-angular-firebase)  
 
 🔥 _Siempre aprendiendo y creando cosas nuevas_ 🔥  
