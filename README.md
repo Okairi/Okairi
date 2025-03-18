@@ -1,5 +1,5 @@
 # 👋 ¡Hola, soy Alessandro!  
-### 🚀 Desarrollador Web | Angular Expert | Aprendiendo Java & Backend  
+### 🚀 Hola, soy Alessandro, desarrollador web especializado en crear aplicaciones funcionales y atractivas con tecnologías modernas.
 
 📫 **Conéctate conmigo:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandromarinodev)  
