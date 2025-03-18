@@ -17,7 +17,6 @@
 - [💬 Chat en Tiempo Real](https://github.com/AlessandroDev/chat-angular-firebase)
 
 📫 **Conéctate conmigo:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandro)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/alessandrodev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandromarinodev)
 
-🔥 _¡Siempre aprendiendo y creando cosas nuevas!_ 🔥
+
