@@ -2,12 +2,14 @@
 ### 🚀 Hola, soy Alessandro, desarrollador web especializado en crear aplicaciones funcionales y atractivas con tecnologías modernas.
 
 📫 **Conéctate conmigo:**  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandromarinodev)  
 [![🌍 Mi portafolio Web](https://img.shields.io/badge/Mi_Web-FF5733?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://alessandromarinodev.netlify.app/)  
 
 ---
 
 💻 **Tecnologías principales:**  
+
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
