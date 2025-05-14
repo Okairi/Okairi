@@ -27,6 +27,4 @@
 
 ---
 
-📊 **Estadísticas de GitHub:**  
-![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Okairi&show_icons=true&theme=radical)  
 
